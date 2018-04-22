@@ -1,4 +1,4 @@
-5# -*- coding: cp936 -*-
+# -*- coding: cp936 -*-
 import urllib
 import urllib2
 import re
